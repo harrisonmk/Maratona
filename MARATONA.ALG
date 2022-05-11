@@ -9,11 +9,13 @@ Var
 
 Inicio
    
+   escreva("Digite a quantidade de tempo: ")
    Leia(N)
 
 
 
    Para i <- 1 ate N faca
+      escreva("digite um tempo em minutos: ")
       Leia(array[i])
    Fimpara
 
